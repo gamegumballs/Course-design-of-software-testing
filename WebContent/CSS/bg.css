@@ -1,0 +1,22 @@
+#box{
+  width:300px;
+  height:300px;
+  margin-top:200px;
+  margin-left:100px;
+  border:1px solid black;
+  background:gray;
+}
+div{
+padding-left:15px;
+padding-right:15px;
+float:left;
+width:350px;
+height:50px;
+}
+.text{
+  height:25px;
+  width:200px;
+}
+label{
+  font-size:20px;
+}
